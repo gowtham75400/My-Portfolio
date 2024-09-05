@@ -24,7 +24,7 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to="/">
-          <a
+          <div 
             style={{
               display: "flex",
               alignItems: "center",
@@ -34,7 +34,7 @@ const Navbar = () => {
             }}
           >
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
+          </div>
         </NavLogo>
         <MobileIcon>
           <FaBars
