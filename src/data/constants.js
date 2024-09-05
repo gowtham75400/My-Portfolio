@@ -136,7 +136,7 @@ export const projects = [
     id: 9,
     title: "E-COMMERCE ",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Developed a full-featured clothes e-commerce application using the MERN stack. Implemented CRUD. operations for users and an admin panel with comprehensive site management capabilities. Designed for seamless user experience and efficient data handling, featuring product listings, shopping cart functionality, and secure admin access for site customization and management.",
     image:
       "https://github.com/HuXn-WebDev/MERN-E-Commerce-Store/blob/main/thumb.png?raw=true",
     tags: [
@@ -153,8 +153,8 @@ export const projects = [
       "React-router-dom",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/gowtham75400/Gojo-E--Commerce",
+    webapp: "https://gojostore.com",
   },
   {
     id: 0,
