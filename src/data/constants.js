@@ -1,11 +1,16 @@
 export const Bio = {
   name: "Gowtham",
-  roles: ["Full Stack Developer", "React Developer", "Programmer", "Certified Developer"],
+  roles: [
+    "Mern Stack Developer",
+    "React Developer",
+    "Programmer",
+    "Certified Developer",
+  ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/gowtham75400",
   resume:
-    "https://drive.google.com/file/d/1Ez0DMOrB5E8npw0YCYJ7OT1p3XMgJghw/view?usp=sharing",
+    "https://drive.google.com/file/d/1LRvC0Yxa6s6rUtTCFMC_VEkpad0XlYOu/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/gowtham-r-6031ba257/",
   insta: "https://www.instagram.com/gowtham__29_/?hl=en",
 };
