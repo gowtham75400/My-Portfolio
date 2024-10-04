@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Gowtham",
   roles: [
-    "Mern Stack Developer",
+    "Full Stack Developer",
     "React Developer",
     "Programmer",
     "Certified Developer",
@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/gowtham75400",
   resume:
-    "https://drive.google.com/file/d/1LRvC0Yxa6s6rUtTCFMC_VEkpad0XlYOu/view?usp=drive_link",
+    "https://drive.google.com/file/d/1kgpoNbHAyzW-VhwboaNc-yMPDEvJ3N7B/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/gowtham-r-6031ba257/",
   insta: "https://www.instagram.com/gowtham__29_/?hl=en",
 };
@@ -76,6 +76,11 @@ export const skills = [
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      },
+      {
+        name: "Java",
+        image:
+          "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
       },
       {
         name: "Firebase",
@@ -166,8 +171,7 @@ export const projects = [
     title: "HABIBI CHAT-BOT",
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://www.chatbot.com/hero-widget-mobile.29e0eea6179128929e8a7d9428cc3c057828c51a3c3c4588b1074514dac553d4.png",
+    image: "https://www.cm.com/cdn/web/en/hero/caic-productpage-herov3.png",
     tags: ["React Js", "API", "Tailwind Css"],
     category: "web app",
     github: "https://github.com/gowtham75400/chattiebot",
